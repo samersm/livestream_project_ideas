@@ -1,0 +1,1 @@
+$ npm install @feathersjs/feathers @feathersjs/socketio @feathersjs/express moment --save
